@@ -27,7 +27,7 @@ test('navigate and interact with crime tool', async ({ page }) => {
   // Show table
   await page.getByRole('link', { name: ' Table' }).click();
   const textContent = await page.getByText('Show 102550100 entries To').textContent();
-  console.log(textContent);
+
 
   // Start waiting for download before clicking. Note no await.
 const downloadPromise = page.waitForEvent('download');
