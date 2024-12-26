@@ -1,0 +1,31 @@
+{
+  "name": "safe_ai",
+  "version": "1.0.0",
+  "description": "API tool for data grabs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale-sanchez-g/safe_ai.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Alejandro Sanchez Giraldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ale-sanchez-g/safe_ai/issues"
+  },
+  "homepage": "https://github.com/ale-sanchez-g/safe_ai#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.21.2",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
