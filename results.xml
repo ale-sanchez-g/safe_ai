@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.550234000000001">
+<testsuite name="breakEnter.spec.ts" timestamp="2024-12-26T14:28:36.499Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.361" errors="0">
+<testcase name="navigate and interact with crime tool" classname="breakEnter.spec.ts" time="6.361">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/breakEnter-navigate-and-interact-with-crime-tool-chromium/video.webm]]
+
+[[ATTACHMENT|test-results/breakEnter-navigate-and-interact-with-crime-tool-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

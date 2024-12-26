@@ -133,3 +133,6 @@ dist
 /blob-report/
 /playwright/.cache/
 /temp/
+
+# Junit report
+report.xml

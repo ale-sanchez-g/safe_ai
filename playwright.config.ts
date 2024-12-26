@@ -27,6 +27,10 @@ export default defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
-    // Add your browser configurations here
+    /* Run tests in Chromium */
+    {
+      name: 'chromium',
+      use: { ...{}, browserName: 'chromium' },
+    },
   ],
 });
