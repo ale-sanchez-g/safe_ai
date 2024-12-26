@@ -2,6 +2,8 @@
 
 Safe AI is an API tool designed for data grabs, specifically focusing on extracting and processing data related to crime statistics. This project leverages Playwright for browser automation and data extraction.
 
+[![Playwright Tests](https://github.com/ale-sanchez-g/safe_ai/actions/workflows/playwright.yml/badge.svg)](https://github.com/ale-sanchez-g/safe_ai/actions/workflows/playwright.yml)
+
 ## Table of Contents
 
 - [Installation](#installation)
