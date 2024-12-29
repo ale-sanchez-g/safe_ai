@@ -4,7 +4,7 @@
   "description": "API tool for data grabs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npx playwright test && node index.js"
   },
   "repository": {
     "type": "git",
